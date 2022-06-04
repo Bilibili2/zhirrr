@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/zhirrr/app/src/main/res/drawable/background.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/zhirrr/app/src/main/res/drawable/start.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/zhirrr/app/src/main/res/drawable/stop.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/zhirrr/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
       </map>
     </option>
